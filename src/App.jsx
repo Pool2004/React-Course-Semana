@@ -18,7 +18,7 @@ function App() {
       borderRadius: '8px',
       marginBottom: '20px'
     }}>
-      <h2 style={{ marginBottom: '15px' }}>📚 Clase de React - 9 de Diciembre 2025</h2>
+      <h2 style={{ marginBottom: '15px' }}>📚 Clase de React - 18 de Diciembre 2025</h2>
       <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap', justifyContent: 'center' }}>
         <button
           onClick={() => setLeccionActiva('inicio')}
